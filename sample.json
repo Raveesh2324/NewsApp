@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Annie Njanja",
+    "title": "Palm.hr raises $5M, embarks on MENA growth",
+    "description": "Palm.hr is configurable across borders, making it easy for it to match local labor laws, and employee regulations in different markets.",
+    "url": "https://techcrunch.com/2023/02/07/palm-hr-raises-5m-embarks-on-mena-growth/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/L-R-Palm.hr-founders-Christoph-Czichna-COO_-Richard-Schrems-CEO-and-Dragan-Nikolic-CPO.jpg?resize=1200,800",
+    "publishedAt": "2023-02-08T05:00:16Z",
+    "content": "A few years ago, Richard Shrems was working as a human resources consultant in Riyadh, and at one point sought to implement a tech-solution for his clients to help them better their huge teams, but c… [+3900 chars]"
+    }
+    ]
+}
